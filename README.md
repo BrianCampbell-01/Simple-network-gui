@@ -1,2 +1,3 @@
 # Simple-network-gui
-takes in subnet and local ip to display host ip
+Takes in subnet and local ip to display host ip
+Created using QT framework
